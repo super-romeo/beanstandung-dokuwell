@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://beanstandung.dokuline.com/sitemap.xml
